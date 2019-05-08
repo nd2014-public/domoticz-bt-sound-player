@@ -23,8 +23,25 @@ Now go to **Setup**, **Hardware** in Domoticz. There you add
 
 Fill devices Mac address of your bluetooth sound devices.
 
-Feature to add
---------------
+
+Install bluealsa and aplay
+
+```bash
+DOCUMENTION TO COME
+```
+
+
+
+Prerequisites
+-------------
+
+- Install bluealsa
+- Connect to bluetooth sound device
+- Check installation with aplay
+
+
+Features to add
+---------------
 
 - Automatically connect to devices before playing sounds
 - Auto detect sound devices by trying to connect/pair with all BT devices scanned
